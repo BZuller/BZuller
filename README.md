@@ -1,9 +1,5 @@
-### Hi there 👋
 
-- 💬 Ask me about anything!
 - 📫 How to reach me: bruno_muller0706@outlook.com
-- 😄 Pronouns: he/him
-
 <div align="center">
   <a href="https://github.com/BZuller">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BZuller&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
